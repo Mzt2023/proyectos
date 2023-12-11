@@ -1,0 +1,15 @@
+*{
+Margin: 0; padding: 0;
+}
+Input : focus {
+background-color: #fae5ad;
+}
+html{
+width: 750px; height: 750px;
+background-color:black;
+}
+body {
+width: 375px; height: 375px;
+     margin: auto; background-color: purple;
+padding:30px;
+}
